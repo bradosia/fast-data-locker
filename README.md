@@ -13,7 +13,9 @@ This tool was designed to protect against laptop swipers that could steal your l
 > You are in a library using your laptop, but you need to use the restroom. You ask the person beside you to watch your stuff while you are gone. When you return, you discover that person and your laptop are gone.
 
 You may think your computer password will keep them out, but a savvy thief can easily access your data without needing your computer password by the following methods:
+
 > remove your laptop hard drive and use it as an external drive to bypass the password and view your files 
+
 > use the many cracking tools available on the web.
 
 This tool combats this situation, by automatically locking your important files after a certain time period customizable by the user. For example, the user might specify the relock time to be 6 hours.
