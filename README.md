@@ -14,9 +14,9 @@ This tool was designed to protect against laptop swipers that could steal your l
 
 You may think your computer password will keep them out, but a savvy thief can easily access your data without needing your computer password by the following methods:
 
-> remove your laptop hard drive and use it as an external drive to bypass the password and view your files 
+> Remove your laptop hard drive and use it as an external drive to bypass the password and view your files 
 
-> use the many cracking tools available on the web.
+> Use the many cracking tools available on the web.
 
 This tool combats this situation, by automatically locking your important files after a certain time period customizable by the user. For example, the user might specify the relock time to be 6 hours.
 
