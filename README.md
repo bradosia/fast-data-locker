@@ -4,7 +4,7 @@ A fast and convenient data lock system. Data locker encrypts sensitive files and
 This tool is different than others because of its autolock feature that locks files and folders after a time delay. 
 This tool was developed for windows systems.
 
-This tool was designed to protect against laptop swipers that could steal your laptop at any time and have access to your images of your photos, financial data, and passwords that were stored on your laptop. The specific type of theft this tool is meant to protect against are as follows:
+This tool was designed to protect against laptop swipers that could steal your laptop at any time and have access to your your personal photos, financial data, and passwords that were stored on your laptop. The specific type of theft this tool is meant to protect against are as follows:
 
 > You are in a coffee shop viewing your quickbooks file on your computer, when suddenly a thief swipes the laptop from your hands and jumps into a get away vehicle before you can catch them.
 
